@@ -104,7 +104,7 @@ const Card = () => {
             </div>
           </div>
           <hr />
-          <div data-aos="fade-up" className="grid grid-cols-1 lg:grid-cols-2 group gap-10">
+          <div data-aos="fade-right" className="grid grid-cols-1 lg:grid-cols-2 group gap-10">
             <div className="overflow-hidden rounded-xl order-2">
               <img
                 src={card1}
@@ -180,7 +180,7 @@ const Card = () => {
               </div>
             </div>
           </div>
-          <div data-aos="fade-up"  className="grid grid-cols-1 lg:grid-cols-2 group gap-10">
+          <div data-aos="fade-left"  className="grid grid-cols-1 lg:grid-cols-2 group gap-10">
             <div className="overflow-hidden rounded-xl">
               <img
                 src={card2}
